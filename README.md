@@ -7,5 +7,5 @@ This is a simple template that can be used for Python TDD projects.
 To add Git hooks, issue:
 
 ```sh
-poetry run autohooks activate.
+poetry run autohooks activate
 ```
